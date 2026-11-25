@@ -41,8 +41,8 @@ A plain linear model gives BMI one fixed weight for everyone, so it cannot captu
 ## How to run
 
 ```bash
-git clone <repo-url>
-cd insurance
+git clone https://github.com/jvd1990/insurance-linear-regression-pytorch.git
+cd insurance-linear-regression-pytorch
 python -m venv .venv
 .venv\Scripts\activate        # Windows
 pip install -r requirements.txt
